@@ -3,7 +3,9 @@ header{
     color: white;
 }
 
-#jumbo{
-    
+#jumbo,
+#about
+{
+
     background-color: #1abc9c;
 }
